@@ -1,4 +1,3 @@
-<head><meta name="google-site-verification" content="AmwRNWwWaMlL0t2LDtGDYqSlxQgsXfQyKNXVn77sqAQ" /></head>
 # CompSci-IA
 A pubic archive of my computer science IA for the IB (M20). This repo contains code, documentation etc for reference purposes
 
